@@ -49,9 +49,7 @@ function Launch() {
             <Col span={8}></Col>
 
             <Col span={8} className="text-right">
-   
-
-              <a href="#" className="font-bold"><img src="./assets/img/bsc.png" className="inline mr-4 w-8" alt="BSC Logo" />BSC MAINNET</a>
+              <a href="https://example.com" className="font-bold"><img src="./assets/img/bsc.png" className="inline mr-4 w-8" alt="BSC Logo" />BSC MAINNET</a>
             </Col>
           </Row>
           <Row className="justify-center">
